@@ -7,4 +7,5 @@ var reverse = function (x) {
   if (reversed > 2 ** 31 - 1) return 0;
   return Math.sign(x) * reversed;
 };
+
 console.log(reverse(120));
