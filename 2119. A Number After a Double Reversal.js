@@ -7,4 +7,3 @@ var isSameAfterReversals = function (num) {
   const reversed2 = +[...`${reversed1}`].reverse().join("");
   return reversed2 === num;
 };
-console.log(isSameAfterReversals(526));
