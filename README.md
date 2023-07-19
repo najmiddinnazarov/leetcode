@@ -7,9 +7,9 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 001
   - :green_circle: [2413. Smallest Even Multiple](easy/001.js)
   - :yellow_circle: [2396. Strictly Palindromic Number](medium/002.js)
-  - Day 002
-    - :green_circle: [9. Palindrome Number](easy/003.js)
-    - :yellow_circle: [7. Reverse Integer](medium/004.js)
+- Day 002
+  - :green_circle: [9. Palindrome Number](easy/003.js)
+  - :yellow_circle: [7. Reverse Integer](medium/004.js)
 - Day 003
   - :green_circle: [2119. A Number After a Double Reversal](easy/005.js)
   - :yellow_circle: [2442. Count Number of Distinct Integers After Reverse Operations](medium/006.js)
