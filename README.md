@@ -71,5 +71,30 @@ This page repository is used to track solutions published in the [Telegram chann
   - :green_circle: [1720. Decode XORed Array](easy/039.js)
   - :yellow_circle: [2657. Find the Prefix Common Array of Two Arrays](medium/040.js)
 - Day 021
+
   - :green_circle: [1290. Convert Binary Number in a Linked List to Integer](easy/041.js)
   - :yellow_circle: [2181. Merge Nodes in Between Zeros](medium/042.js)
+
+  ### Week 04
+
+- Day 022
+  - :green_circle: [876. Middle of the Linked List](easy/043.js)
+  - :yellow_circle: [1669. Merge In Between Linked Lists](medium/044.js)
+- Day 023
+  - :green_circle: [206. Reverse Linked List](easy/045.js)
+  - :yellow_circle: [237. Delete Node in a Linked List](medium/046.js)
+- Day 024
+  - :green_circle: [21. Merge Two Sorted Lists](easy/047.js)
+  - :yellow_circle: [382. Linked List Random Node](medium/048.js)
+- Day 025
+  - :green_circle: [160. Intersection of Two Linked Lists](easy/049.js)
+  - :yellow_circle: [2130. Maximum Twin Sum of a Linked List](medium/050.js)
+- Day 026
+  - :green_circle: [234. Palindrome Linked List](easy/051.js)
+  - :yellow_circle: [1721. Swapping Nodes in a Linked List](medium/052.js)
+- Day 027
+  - :green_circle: [83. Remove Duplicates from Sorted List](easy/053.js)
+  - :yellow_circle: [1472. Design Browser History](medium/054.js)
+- Day 028
+  - :green_circle: [705. Design HashSet](easy/055.js)
+  - :yellow_circle: [24. Swap Nodes in Pairs](medium/056.js)
